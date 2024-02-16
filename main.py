@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5946052011:AAEPKT8-_6MwvMn7uAjwt13d_SYhFgQ-sBc')
+bot = telebot.TeleBot('Your token')
 name = ''
 surname = ''
 age = 0
